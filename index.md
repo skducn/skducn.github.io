@@ -12,7 +12,7 @@ Format: ![Alt Text](url)
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
