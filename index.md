@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/skducn/skducn.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![GitHub Logo](/images/yoyo.jpg)
-Format: ![Alt Text](url)
-
+2011
 
 | First Header  | Second Header |
 | ------------- | ------------- |
