@@ -1,7 +1,8 @@
 2020.4.7 我家宝贝4个月
 ![提提](/images/3.4-1.jpeg)
 
-![提提](/images/4.5.mp4)
+
+<video src="https://github.com/skducn/skducn.github.io/blob/master/images/4.5.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 You can use the [editor on GitHub](https://github.com/skducn/skducn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
