@@ -1,3 +1,5 @@
+2020.4.7 我家宝贝4个月
+![提提](/images/3.4-1.jpeg)
 
 You can use the [editor on GitHub](https://github.com/skducn/skducn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
